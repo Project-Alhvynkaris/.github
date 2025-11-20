@@ -4,3 +4,5 @@ Project Alhvynkaris is a large scale wiki style hard worldbuilding project, wher
 ###### please help this is a lot to do and geojson is hard and im not very good at math yet im putting in waaay to much physics 😭
 
 For those writing, drawing, composing, or even just theorizing for Project Alhvynkaris; good luck, and have fun!
+
+If you wish to join, simply verify yourself at our Discord server (to link).
