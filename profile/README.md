@@ -1,8 +1,16 @@
-## hello, and welcome to Project Alhvynkaris!
-Project Alhvynkaris is a large scale wiki style hard worldbuilding project, wherein *everything* is described. We strive to have an advanced and complete magic system, a full map based on simulated tectonic plate history, unique cultures, entire conlangs...
+# hi, and welcome to Project Alhvynkaris!
+Hello! Welcome to Project Alhvynkaris: a nonfiction-in-fiction, wide *and* as deep as an ocean, hard worldbuilding project wherein we do *NOT* break the laws of physics—we only add more and have the characters break it for us with an overly complicated magic system.
 
-###### please help this is a lot to do and geojson is hard and im not very good at math yet im putting in waaay to much physics 😭
+It gets nerdier every day, and we need your help to patch up our overly complex magic system, to make our map based on simulated tectonic history, culture, [conlangs](https://en.wikipedia.org/wiki/Constructed_language), culture based on flora and fauna and more…
 
-For those writing, drawing, composing, or even just theorizing for Project Alhvynkaris; good luck, and have fun!
+###### please help.
 
-If you wish to join, simply verify yourself at our Discord server (to link).
+This project is MEANT TO BE READ ON [OBSIDIAN](https://obsidian.md/download)! Obsidian is a free and offline markdown reader available on [Linux](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.AppImage), [Windows](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.exe), [Mac](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.dmg), [iOS](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442), and [Android](https://play.google.com/store/apps/details?id=md.obsidian).
+
+If you want to join and help, visit our Discord at [MAKE THE SERVER, WILT]
+
+In the project’s current state, the repo is generally closed off while I (wilt_r) write in the initial premise and structure. Once its done, you can help contribute to solve plot holes, add more features, and maybe, just maybe, we can figure out geojson together like real gis technicians >:O
+
+###### i fear geojson like nothing else
+
+However you help us, thank you so much for your contributions to make this… *overly* ambitious project come true!
